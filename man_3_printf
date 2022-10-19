@@ -31,7 +31,7 @@ In the Example print the value of text with %s give the format of text.
 .SH SEE ALSO
 .I printf (3)
 .SH AUTHOR
-Adedeji Adebusuy
+Utogbo Timothy Ugarh
 Alexander Ikpeama
 Footer
 © 2022 GitHub, Inc.
